@@ -10,7 +10,7 @@ function accendi() {
     if (img2El.classList.contains('d-none')){
         bottoneEl.textContent='Accendi';
     }else{
-        bottoneEl.textContent='spegni'
+        bottoneEl.textContent='Spegni'
     }
     /* document.querySelector('span').classList.toggle('d-none')
     document.querySelector('p').classList.toggle('d-none') */
